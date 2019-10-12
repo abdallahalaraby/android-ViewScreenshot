@@ -3,7 +3,7 @@ Blink
 
 [ ![Download](https://api.bintray.com/packages/abdallahalaraby/Blink/Blink/images/download.svg) ](https://bintray.com/abdallahalaraby/Blink/Blink/_latestVersion)
 
- Android library that enables users to take screenshots of single Views and Activities.
+ Android library that enables users to take screenshots of  Views and Activities.
 
 <h2>Dependency:</h2>
 Include Blink into your project by adding the following line in your module-level build.gradle
